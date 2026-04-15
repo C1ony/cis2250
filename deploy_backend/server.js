@@ -24,6 +24,7 @@ app.use(cors({
     'http://localhost:3000',
     'http://localhost:3001',
     'http://127.0.0.1:3000',
+    'https://willowy-sorbet-56cd3f.netlify.app',
     'https://cis2250-exam-prep.netlify.app',
     'https://*.netlify.app',
     'https://*.vercel.app',
